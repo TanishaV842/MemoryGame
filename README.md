@@ -4,7 +4,7 @@
 <h3>Project created in order to get a good grasp on some JavaScript fundamentals without the use of frameworks or libraries.</h3>
 <h4>By building this game, I was able to incorporate the basics, such as:</h4>
 <ul>
-<li>document.querySelector</li>
+<li>document.querySelectorAll</li>
 <li>addEventListener</li>
 <li>setAttribute</li>
 <li>getAttribute</li>
