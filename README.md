@@ -1,5 +1,5 @@
 # Memory Game
-<h2>Memory is a simple game in which you turn over 2 cards at a time to create a match.</h2>
+<h2>Memory is a simple game in which you flip over two cards at a time to create a match.</h2>
 
 <h3>Project created in order to get a good grasp on some JavaScript fundamentals without the use of frameworks or libraries.</h3>
 <h4>By building this game, I was able to incorporate the basics, such as:</h4>
